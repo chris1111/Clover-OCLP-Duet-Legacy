@@ -2,7 +2,8 @@
 
 ###  Follow every steps in the Video ⇩
 
-![Video](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/c037d4fa-1636-4d06-80d6-45c2bc80ff4a)
+[![Modular Image Creation](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/55d38a2f-1f49-4fe3-a650-76cc0114e3e1)](https://youtu.be/8hhBc1LV1yI)
+
 
 Boot to Install macOS Sonoma for install to the SSD format as  APFS / Guid partition
 
@@ -34,7 +35,7 @@ Reboot again to Mac OS from Sonoma-Clover via Preboot
 
 Post Install Video ⇩
 
-![Video](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/55d38a2f-1f49-4fe3-a650-76cc0114e3e1)
+[![Modular Image Creation](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/55d38a2f-1f49-4fe3-a650-76cc0114e3e1)](https://youtu.be/lO9gEq1nFoo)
 
 
 
