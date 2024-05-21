@@ -12,3 +12,4 @@ Working from Big Sur 11 to Sonoma 14
 . Do not change the EFI folder of this package because it will not work. We use Clover R 5158
 
 ### View [Usage](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/blob/main/Usage-Clover.md) 
+### Download ➤ [Release](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/releases/tag/V1)
