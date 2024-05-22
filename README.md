@@ -25,7 +25,8 @@ Working from Big Sur 11 to Sonoma 14
 * Test in Monterey 12 [Working](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/discussions/1)
 ### Do not use another version of OCLP it will not work
 * Do not change the EFI folder of this package because it will not work. We use Clover R 5158
- 
+* Do not update OCLP it will not work.
+  
 ### Download ➤ [Release](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/releases/tag/V1)
 Open ➤ [Issue](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/issues)
 Open ➤ [Discussion](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/discussions)
