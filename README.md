@@ -1,6 +1,7 @@
 # Clover-OCLP-Duet-Legacy
 This is a fix for Legacy System for Clover on macOS Sonoma 14 
-. Using OCLP mod for Clover
+. Using [OCLP](https://github.com/chris1111/Clover-OCLP) mod for Clover
+
 
 ## Credit:
 - [Clover Team](https://github.com/CloverHackyColor/CloverBootloader) For Clover
