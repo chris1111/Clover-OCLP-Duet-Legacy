@@ -1,0 +1,1 @@
+# Emulate NVRAM Clover
