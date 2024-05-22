@@ -15,3 +15,5 @@ Working from Big Sur 11 to Sonoma 14
 ### Download ➤ [Release](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/releases/tag/V1)
 Open ➤ [Issue](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/issues)
 Open ➤ [Discussion](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/discussions)
+
+View ➤ [Emulate NVRAM Clover](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/blob/main/Emulate-NVRAM.MD)
