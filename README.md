@@ -6,6 +6,17 @@
 This is a fix for Legacy System for Clover on macOS Sonoma 14 
 . Using OCLP mod for Clover
 
+Support Graphics:
+* Intel HD 3000
+* Intel HD 4000
+* Intel HD 4600
+* Intel HD 5000
+* NVIDIA Kepler
+* AMD Tera Scale 1,2
+* AMD GCN 1-3 (HD 7xxx/8xxx/9xxx, R7/R9)
+* AMD Polaris (RX 4xx/5xx)
+* AMD Vega (RX 56/64/VII)
+
 Working from Big Sur 11 to Sonoma 14
 * Test in Monterey 12 [Working](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/discussions/1)
 ### Do not use another version of OCLP it will not work
