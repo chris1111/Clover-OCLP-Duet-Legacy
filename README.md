@@ -28,6 +28,7 @@ Working from Big Sur 11 to Sonoma 14
 * Do not update OCLP it will not work.
   
 ### Download ➤ [Release](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/releases/tag/V1)
+### For laptop you have to change the EFI inside package Download ➤ [EFI-Laptop](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/releases/tag/L-V1)
 Open ➤ [Issue](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/issues)
 Open ➤ [Discussion](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/discussions)
 Open Discussions ➤ [My successful result](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/discussions)
