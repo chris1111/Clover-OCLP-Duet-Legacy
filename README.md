@@ -22,8 +22,8 @@ Support Graphics:
 * AMD Vega (RX 56/64/VII)
 
 Working from Big Sur 11 to Sonoma 14
-* Test in Monterey 12 [Working](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/discussions/1)
-### Do not use another version of OCLP it will not work
+* Test in Monterey 12 [Working](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/discussions/1) Ventura 13 [Working](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/discussions/3) Sonoma 14 [Working](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/discussions/2)
+* ### Do not use another version of OCLP it will not work
 * Do not change the EFI folder of this package because it will not work. We use Clover R 5158
 * Do not update OCLP it will not work.
   
