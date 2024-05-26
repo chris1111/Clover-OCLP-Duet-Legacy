@@ -8,11 +8,11 @@ After Post Install -> Install NVRAM (Emulate NVRAM) ⇩
 * After using the command, if you change anything in the config.plist that is related to NVRAM; restart this command the same way demonstrated in the video.
 
 
-# Emulate NVRAM Clover for Big Sur 11 and bellow ⇩
+# Emulate NVRAM Clover for Monterey 12 and bellow ⇩
 ## View Spoiler: ⬇︎
 
 <details> 
-  <summary>NVRAM Clover for Big Sur 11 and bellow</summary>
+  <summary>NVRAM Clover for Monterey 12 and bellow</summary>
 Enable DefaultVolume=LastBootedVolume  in config.plist
 
 
