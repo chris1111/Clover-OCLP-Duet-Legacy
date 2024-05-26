@@ -8,7 +8,7 @@ This is a fix for Legacy System for Clover on macOS Sonoma 14
 - [acidanthera](https://github.com/acidanthera) kexts/Plugins
 - [OCLP Team](https://github.com/dortania/OpenCore-Legacy-Patcher/) For OCLP
 ------------------------------------------
-### View ➤ [Usage](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/blob/main/Usage-Clover.md)
+## 🔍 View first ➤ [Usage](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/blob/main/Usage-Clover.md)
 
 Support Graphics:
 * Intel HD 3000
@@ -33,4 +33,4 @@ Open ➤ [Issue](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/issues)
 Open ➤ [Discussion](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/discussions)
 Open Discussions ➤ [My successful result](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/discussions)
 
-View ➤ [Emulate NVRAM Clover](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/blob/main/Emulate-NVRAM.MD)
+## 🔎 View ➤ [Emulate NVRAM Clover](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/blob/main/Emulate-NVRAM.MD)
