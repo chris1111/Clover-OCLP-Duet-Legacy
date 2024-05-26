@@ -36,3 +36,5 @@ Open ➤ [Discussion](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/discu
 Open Discussions ➤ [My successful result](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/discussions)
 
 ## 🔎 View ➤ [Emulate NVRAM Clover](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/blob/main/Emulate-NVRAM.MD)
+
+## 🔎 View ➤ [macOS-Software-Update](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/blob/main/macOS-Software-Update.md)
