@@ -22,7 +22,19 @@ Reboot to ⇩ secound time
 
 ![screenshot4](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/4e14d93b-4ac4-4e2d-8aac-55adb1bb8ebe)
 
+You will see this ⇩ Wait . . . Be patient! for reboot to the system
+
+![screenshot5](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/2c084af0-e242-4b1c-9148-8b0caf19e238)
+
+Reboot to ⇩ third time
+
+![screenshot4](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/536e794b-1a73-4e6e-bacd-0d4f8f342373)
+
+
 Update complete ⇩
+
+![screenshot6](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/99c5c43b-0ffc-4370-aa4f-db1575a74e3c)
+
 
 ![XAfter update](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/ebdf60ef-4314-438d-bf24-5594d9353f66)
 
