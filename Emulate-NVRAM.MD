@@ -1,4 +1,4 @@
-# Emulate NVRAM Clover
+# Emulate NVRAM Clover for Ventura 13, Sonoma 14
 After Post Install -> Install NVRAM (Emulate NVRAM) ⇩
 
 🚫  Do not enable `LastBootedVolume` in the config.plist because you will get a reboot error with Startup Disk Utility!
