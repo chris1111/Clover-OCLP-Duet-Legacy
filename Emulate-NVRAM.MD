@@ -18,22 +18,22 @@ Enable DefaultVolume=LastBootedVolume  in config.plist
 
 ![Screenshot 2024-05-26 at 6 37 34 PM](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/8cfcf065-ba29-4a35-96b7-6ea0bb83653e)
 
-Reboot macOS
-Open Terminal : type
+### Reboot macOS
+* Open Terminal : type
 nvram -x -p > ~/nvram.plist
 
 ![Screen Shot 2024-05-26 at 6 51 47 PM](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/26fa6912-3b96-4bdc-a24e-391953ae3223)
 
 
-Mount the EFI Partition
+### Mount the EFI Partition
 Copy and paste nvram.plist to EFI Partition
 
 ![Screen Shot 2024-05-26 at 6 52 22 PM](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/72c2c55b-b680-4f83-ad6a-a17978c36dc7)
 
 
-Disabled DefaultVolume=LastBootedVolume in config.plist
+### Disabled DefaultVolume=LastBootedVolume in config.plist
 
 ![Screenshot 2024-05-26 at 6 57 04 PM](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/ba60855e-0f21-4ec0-8b59-6e1397146e5f)
 
-Your get to go, reboot macOS
+## Your get to go, reboot macOS
 </details>
