@@ -36,5 +36,5 @@ Copy and paste nvram.plist to EFI Partition
 
 ![Screenshot 2024-05-26 at 6 57 04 PM](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/ba60855e-0f21-4ec0-8b59-6e1397146e5f)
 
-## Your get to go, reboot macOS
+## Your ready to go, reboot macOS
 </details>
