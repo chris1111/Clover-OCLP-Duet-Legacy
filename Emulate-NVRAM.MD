@@ -20,6 +20,7 @@ Enable DefaultVolume=LastBootedVolume  in config.plist
 
 ### Reboot macOS
 * Open Terminal : type
+
 nvram -x -p > ~/nvram.plist
 
 ![Screen Shot 2024-05-26 at 6 51 47 PM](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/26fa6912-3b96-4bdc-a24e-391953ae3223)
