@@ -1,9 +1,9 @@
-# Clover-OCLP-Duet-Legacy
-[![pages-build-deployment](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/actions/workflows/pages/pages-build-deployment)
-* In this guide you will see a lot of images. As the saying goes, a picture is worth a thousand words!
+# Clover-OCLP-Duet-Legacy [![pages-build-deployment](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/actions/workflows/pages/pages-build-deployment)
 
-This is a fix for Legacy System for Clover on macOS Sonoma 14 
+* This is a fix for Legacy System for Clover on macOS Sonoma 14 
 . Using [OCLP](https://github.com/chris1111/Clover-OCLP) mod for Clover
+  
+* In this guide you will see a lot of images. As the saying goes, a picture is worth a thousand words!
 
 
 ## Credit:
