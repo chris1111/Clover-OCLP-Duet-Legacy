@@ -1,4 +1,5 @@
-# macOS-Software-Update
+#### macOS-Software-Update `This guide working from Big Sur 11 to Sonoma 14`
+
 View macOS-Software-Update ⇩
 
 ![Monterey before update](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/379ae30f-7ccf-40c9-9276-792a95217400)
