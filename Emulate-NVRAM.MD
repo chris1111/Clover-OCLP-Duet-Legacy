@@ -38,3 +38,5 @@ Copy and paste nvram.plist to EFI Partition
 
 ## Your ready to go, reboot macOS
 </details>
+
+The ➥ [Clover RCScript](https://github.com/CloverHackyColor/CloverBootloader/tree/master/CloverPackage/CloverV2/rcScripts) also work for Monterey 12 and bellow
