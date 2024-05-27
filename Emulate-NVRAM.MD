@@ -8,35 +8,4 @@ After Post Install -> Install NVRAM (Emulate NVRAM) ⇩
 * After using the command, if you change anything in the config.plist that is related to NVRAM; restart this command the same way demonstrated in the video.
 
 
-# Emulate NVRAM Clover for Monterey 12 and bellow ⇩
-## View Spoiler: ⬇︎
-
-<details> 
-  <summary>NVRAM Clover for Monterey 12 and bellow</summary>
-Enable DefaultVolume=LastBootedVolume  in config.plist
-
-
-![Screenshot 2024-05-26 at 6 37 34 PM](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/8cfcf065-ba29-4a35-96b7-6ea0bb83653e)
-
-### Reboot macOS
-* Open Terminal : type
-
-nvram -x -p > ~/nvram.plist
-
-![Screen Shot 2024-05-26 at 6 51 47 PM](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/26fa6912-3b96-4bdc-a24e-391953ae3223)
-
-
-### Mount the EFI Partition
-Copy and paste nvram.plist to EFI Partition
-
-![Screen Shot 2024-05-26 at 6 52 22 PM](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/72c2c55b-b680-4f83-ad6a-a17978c36dc7)
-
-
-### Disabled DefaultVolume=LastBootedVolume in config.plist
-
-![Screenshot 2024-05-26 at 6 57 04 PM](https://github.com/chris1111/Clover-OCLP-Duet-Legacy/assets/6248794/ba60855e-0f21-4ec0-8b59-6e1397146e5f)
-
-## Your ready to go, reboot macOS
-</details>
-
-The ➥ [Clover RCScript](https://github.com/CloverHackyColor/CloverBootloader/tree/master/CloverPackage/CloverV2/rcScripts) also work for Monterey 12 and bellow
+## Emulate NVRAM Clover for Monterey 12 and bellow ➦ [Clover RCScript](https://github.com/CloverHackyColor/CloverBootloader/tree/master/CloverPackage/CloverV2/rcScripts) 
